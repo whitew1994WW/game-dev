@@ -1,0 +1,6 @@
+[submodule "game-dev-frontend"]
+    path = game-dev-frontend
+    url = https://github.com/whitew1994WW/game-dev-frontend
+[submodule "game-dev-infrastructure"]
+    path = game-dev-infrastructure
+    url = https://github.com/whitew1994WW/game-dev-infrastructure
